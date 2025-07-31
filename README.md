@@ -1,30 +1,29 @@
 # Hi there, I'm Matej 👋
 
 🎯 Formerly a GIS Analyst, now diving deep into Machine Learning and Data Science.
- 
-- Analysing data
-- Machine learning and AI enthusiast 
-- Kaggle competitor
-- Allways learning new skills
 
-🌱 I’m currently learning more staff from machine laerning, deep learning and starting with NLP projects.
+- Passionate about data analysis and turning insights into action  
+- Machine learning & AI enthusiast  
+- Active Kaggle competitor  
+- Constantly learning and growing my technical skillset  
 
-🚀 Tools:
-- Python, SQL, PyTorch, scikit-learn, Django
-- Geospatial tools: QGIS, rasterio, GeoPandas, spatial analysis, LiDAR
+### 🌱 Currently Learning
+Expanding my knowledge in machine learning, deep learning, and starting new NLP projects.
 
-📚 Projects:
-Welcome to my portfolio, where I showcase my [projects](https://github.com/MatoKamenicky?tab=repositories)
+### 🚀 Tools & Technologies
+- **Programming & ML**: Python, SQL, PyTorch, scikit-learn, Django  
+- **Geospatial**: QGIS, rasterio, GeoPandas, spatial analysis, LiDAR  
 
+### 📚 Projects
+Welcome to my portfolio — check out my [GitHub repositories](https://github.com/MatoKamenicky?tab=repositories) to see what I’ve been working on!
 
+### 🎓 Courses Completed
+- HarvardX – *Machine Learning and AI with Python*  
+- Google – *Machine Learning Crash Course*  
+- IBM – *Data Analysis with Python*  
+- Esri – *MOOC: Spatial Data Science*  
+- Esri – *MOOC: Cartography*  
 
-Courses:
-- HarvardX - Machine Learning and AI with Python
-- Google - Machine Learning Crash Course
-- IBM - Data Analysis with Python
-- esri - MOOC Spatial Data Science
-- esri - MOOC Cartography
-
-📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/matokamenicky/)
-- [Kaggle](https://www.kaggle.com/matokamenicky)
+### 📫 Let’s Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/matej-kamenický)  
+- 🏆 [Kaggle](https://www.kaggle.com/matejkamenicky)  
